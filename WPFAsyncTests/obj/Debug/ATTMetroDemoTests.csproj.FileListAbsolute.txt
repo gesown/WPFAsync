@@ -1,0 +1,9 @@
+D:\ATTMetroDemo\ATTMetroDemoTests\bin\Debug\ATTMetroDemoTests.dll
+D:\ATTMetroDemo\ATTMetroDemoTests\bin\Debug\ATTMetroDemoTests.pdb
+D:\ATTMetroDemo\ATTMetroDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ATTMetroDemo\ATTMetroDemoTests\bin\Debug\nunit.framework.dll
+D:\ATTMetroDemo\ATTMetroDemoTests\bin\Debug\nunit.framework.xml
+D:\ATTMetroDemo\ATTMetroDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\ATTMetroDemo\ATTMetroDemoTests\obj\Debug\ATTMetroDemoTests.csprojResolveAssemblyReference.cache
+D:\ATTMetroDemo\ATTMetroDemoTests\obj\Debug\ATTMetroDemoTests.dll
+D:\ATTMetroDemo\ATTMetroDemoTests\obj\Debug\ATTMetroDemoTests.pdb

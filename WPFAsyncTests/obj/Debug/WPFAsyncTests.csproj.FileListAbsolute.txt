@@ -1,0 +1,9 @@
+D:\src\WPFAsync\WPFAsyncTests\bin\Debug\ATTMetroDemoTests.dll
+D:\src\WPFAsync\WPFAsyncTests\bin\Debug\ATTMetroDemoTests.pdb
+D:\src\WPFAsync\WPFAsyncTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\src\WPFAsync\WPFAsyncTests\bin\Debug\nunit.framework.dll
+D:\src\WPFAsync\WPFAsyncTests\bin\Debug\nunit.framework.xml
+D:\src\WPFAsync\WPFAsyncTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\src\WPFAsync\WPFAsyncTests\obj\Debug\WPFAsyncTests.csprojResolveAssemblyReference.cache
+D:\src\WPFAsync\WPFAsyncTests\obj\Debug\ATTMetroDemoTests.dll
+D:\src\WPFAsync\WPFAsyncTests\obj\Debug\ATTMetroDemoTests.pdb

@@ -1,0 +1,17 @@
+D:\src\WPFAsync\WPFAsync\bin\Debug\ATTMetroDemo.exe.config
+D:\src\WPFAsync\WPFAsync\bin\Debug\ATTMetroDemo.exe
+D:\src\WPFAsync\WPFAsync\bin\Debug\ATTMetroDemo.pdb
+D:\src\WPFAsync\WPFAsync\bin\Debug\nunit.framework.dll
+D:\src\WPFAsync\WPFAsync\bin\Debug\nunit.framework.xml
+D:\src\WPFAsync\WPFAsync\obj\Debug\WPFAsync.csprojResolveAssemblyReference.cache
+D:\src\WPFAsync\WPFAsync\obj\Debug\MainWindow.g.cs
+D:\src\WPFAsync\WPFAsync\obj\Debug\App.g.cs
+D:\src\WPFAsync\WPFAsync\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\src\WPFAsync\WPFAsync\obj\Debug\ATTMetroDemo_MarkupCompile.cache
+D:\src\WPFAsync\WPFAsync\obj\Debug\ATTMetroDemo_MarkupCompile.lref
+D:\src\WPFAsync\WPFAsync\obj\Debug\MainWindow.baml
+D:\src\WPFAsync\WPFAsync\obj\Debug\ATTMetroDemo.g.resources
+D:\src\WPFAsync\WPFAsync\obj\Debug\ATTMetroDemo.Properties.Resources.resources
+D:\src\WPFAsync\WPFAsync\obj\Debug\WPFAsync.csproj.GenerateResource.Cache
+D:\src\WPFAsync\WPFAsync\obj\Debug\ATTMetroDemo.exe
+D:\src\WPFAsync\WPFAsync\obj\Debug\ATTMetroDemo.pdb
