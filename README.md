@@ -1,2 +1,1 @@
-# ATTDemo
-Demo for Mike O'Shea
+# WPF Demo using Async/Await
